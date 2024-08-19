@@ -1,0 +1,35 @@
+nav{
+    background-color: rgb(82, 190, 190);
+}
+a{
+    text-decoration: none;
+    float: right;
+    margin-inline:15px ;
+    font-size: larger;
+}
+a:hover{
+ padding: auto;
+ background-color: rgb(209, 216, 0);
+ text-decoration-line: underline;
+ text-decoration-color: rgb(139, 0, 0);
+} 
+h1{
+    display: inline;
+    padding: auto;   
+}
+img{
+    height: max-content;
+    width: 450px;
+    float: right;
+     padding-top: 400px;
+}
+footer{
+    background-color: chartreuse;
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
